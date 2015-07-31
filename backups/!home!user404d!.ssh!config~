@@ -1,0 +1,11 @@
+#user404d account
+Host github.com-user404d
+     HostName github.com
+     User user404d
+     IdentityFile ~/.ssh/user404d_rsa
+
+#user808d account
+Host github.com-user808d
+     HostName github.com
+     User user808d
+     IdentityFile ~/.ssh/id_rsa

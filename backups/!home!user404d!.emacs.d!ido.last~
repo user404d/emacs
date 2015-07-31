@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/user404d/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ 
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/user404d/.emacs.d/customizations/" (21947 37554 688857 801000) "elisp-editing.el" "ui.el" "editing.el" "../" "setup-js.el" "misc.el" "shell-integration.el" "./" "navigation.el" "setup-clojure.el")
+
+ ("/home/user404d/.emacs.d/" (21947 37662 529418 466000) ".smex-items" "elpa/" ".recentf" "init.el" "places" "../" "themes/" ".git/" "./" "backups/" ".gitignore" "README.md" "customizations/")
+
+ ("/home/user404d/" (21947 37553 578858 357000) ".conkyrc" "Downloads/" ".julia/" ".gnupg/" ".xinitrc" ".bash_profile" ".m2/" "Public/" "Manjaro/" ".emacs.d/" "Templates/" "VirtualBox VMs/" ".npm/" ".Xresources" ".icons/" "weka.log" "Pictures/" ".dmrc" ".lein/" "Desktop/" ".Xauthority" ".xsession-errors" ".dbus/" ".bash_history" ".mozilla/" ".julia_history" "../" ".ICEauthority" ".thumbnails/" ".pki/" ".local/" "R/" ".xprofile" ".esd_auth" ".bash_logout" ".xsession" "Music/" ".cache/" ".gnome/" ".dir_colors" "Videos/" ".Xclients" ".config/" ".macromedia/" ".bashrc" "./" ".xfce4-session.verbose-log" ".xsession-errors.old" ".java/" ".ssh/" ".adobe/" ".gvfs/" "Programming/" ".vagrant.d/" "Documents/" ".xfce4-session.verbose-log.last")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

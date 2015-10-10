@@ -1,0 +1,128 @@
+./program 
+make
+make
+./program 
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+make
+./program 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+./a.out 
+g++ -std=c++14 j.cpp 
+g++ -std=c++14 j.cpp 
+./a.out 
+./a.out 
+./a.out 

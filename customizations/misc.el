@@ -10,3 +10,10 @@
 
 ;; Go straight to scratch buffer on startup
 (setq inhibit-startup-message t)
+
+(defun ipython ()
+  (interactive)
+  (ansi-term "/usr/bin/ipython" "ipython"))
+
+(add-hook 'python-mode-hook 'jedi:setup)
+(setq jedi:complete-on-dot t) 

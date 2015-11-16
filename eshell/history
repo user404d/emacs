@@ -1,43 +1,3 @@
-g++ -std=c++14 timebomb.cpp
-./a.out 
-./a.out 
-g++ -std=c++14 timebomb.cpp
-g++ -std=c++14 timebomb.cpp
-g++ -std=c++14 timebomb.cpp
-g++ -std=c++14 timebomb.cpp
-./a.out 
-./a.out 
-./a.out 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-./a.out 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
-./a.out 
-g++ -std=c++14 prsteni.cpp 
 ./a.out 
 g++ -std=c++14 prsteni.cpp 
 ./a.out 
@@ -126,3 +86,43 @@ g++ -std=c++14 funhouse.cpp
 ./a.out 
 g++ -std=c++14 funhouse.cpp
 ./a.out 
+make
+./program 
+ls
+mpirun -np 2 program
+mpirun -np 3 program
+make
+make
+make
+mpirun -np 3 program
+make
+mpirun -np 3 program
+make
+mpirun -np 3 program
+mpirun -np 6 program
+mpirun -np 6 program
+mpirun -np 10 program
+make
+mpirun -np 10 program
+mpirun -np 10 program
+make
+mpirun -np 10 program
+mpirun -np 10 program
+make
+mpirun -np 5 program
+make
+mpirun -np 5 program
+make
+mpirun -np 5 program
+mpirun -np 6 program
+make
+mpirun -np 11 program
+mpirun -np 4 program
+make
+mpirun -np 4 program
+mpirun -np 4 program
+mpirun -np 6 program
+make
+mpirun -np 6 program
+make
+mpirun -np 6 program

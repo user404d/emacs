@@ -13,7 +13,7 @@
 
 (defun ipython ()
   (interactive)
-  (ansi-term "/usr/bin/ipython" "ipython"))
+  (ansi-term "/usr/local/bin/ipython" "ipython"))
 
 (add-hook 'python-mode-hook 'jedi:setup)
 (setq jedi:complete-on-dot t) 

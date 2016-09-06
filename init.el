@@ -4,12 +4,12 @@
 
 ;; Define package repositories
 (require 'package)
-(add-to-list 'package-archives
-             '("melpa" . "http://stable.melpa.org/packages/") t)
+;; (add-to-list 'package-archives
+             ;; '("melpa" . "http://stable.melpa.org/packages/") t)
 
-;; (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
-;;                          ("marmalade" . "http://marmalade-repo.org/packages/")
-;;                          ("melpa" . "http://melpa-stable.milkbox.net/packages/")))
+(setq package-archives '(("gnu" . "https://elpa.gnu.org/packages/")
+                         ("marmalade" . "https://marmalade-repo.org/packages/")
+                         ("melpa" . "https://stable.melpa.org/packages/")))
 
 
 ;; Load and activate emacs packages. Do this first so that the

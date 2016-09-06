@@ -1,4 +1,4 @@
-#!/home/user404d/.emacs.d/.python-environments/default/bin/python3
+#!/Users/user404d/.emacs.d/.python-environments/default/bin/python2.7
 
 # -*- coding: utf-8 -*-
 import re
